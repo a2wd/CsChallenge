@@ -1,5 +1,5 @@
 # Challenge
-A series of mentoring challenges for @tame75
+A series of mentoring challenges for @tame75 focused around general computer science and software engineering, but implemented in C#
 
 ## 1. Evens
 
